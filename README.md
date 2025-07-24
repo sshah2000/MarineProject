@@ -1,4 +1,4 @@
-# MarineProject# Marine Traffic Scraper & SQLite Analytics
+# Marine Traffic Scraper & SQLite Analytics
 
 Collect AIS-like vessel positions, persist them in SQLite, and analyze them with practical SQL. This repo contains:
 
@@ -22,7 +22,6 @@ Collect AIS-like vessel positions, persist them in SQLite, and analyze them with
 7. [Exporting & Visualizing Positions](#exporting--visualizing-positions)
 8. [Scheduling / Automation Ideas](#scheduling--automation-ideas)
 9. [Roadmap / Future Ideas](#roadmap--future-ideas)
-10. [License & Acknowledgments](#license--acknowledgments)
 
 ---
 
@@ -302,14 +301,11 @@ plt.show()
 
 ---
 
-## License & Acknowledgments
+## Acknowledgments
 
-* **License:** MIT (or choose your own; add `LICENSE` file).
+
 * **Data Sources:** Respect the terms of service of any site/API scraped.
 * **Tools:** SQLite, Python, Playwright/Requests, Jupyter, DBeaver.
 
 ---
 
-### Questions / Contributions
-
-PRs and issues welcome! If you have ideas for new analytics or want to extend the schema, open an issue.
