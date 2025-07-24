@@ -1,5 +1,11 @@
 # Marine Traffic Scraper & SQLite Analytics
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![SQLite](https://img.shields.io/badge/SQLite-embedded-lightgrey?logo=sqlite)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Playwright-informational?logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+
 Collect AIS-like vessel positions, persist them in SQLite, and analyze them with practical SQL. This repo contains:
 
 * A Python/Jupyter workflow that scrapes ship position data
