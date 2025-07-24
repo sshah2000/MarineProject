@@ -1,4 +1,4 @@
-# Marine Traffic Scraper & SQLite Analytics
+# Marine Traffic Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-embedded-lightgrey?logo=sqlite)
